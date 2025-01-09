@@ -32,7 +32,7 @@ export const songs = [
 },
 	{
     name: "4. oath sign by LiSA",
-    videoId : "https://nawdist.animemusicquiz.com//qgy2zu.webm",
+    videoId : "https://naedist.animemusicquiz.com/2356k9.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -331,7 +331,7 @@ export const songs = [
 },
 	{
     name: "34. REALiZE by LiSA",
-    videoId : "https://youtu.be/-A0ICz6rVvU?si=ZL80VT-DojmQHRHJ",
+    videoId : "https://youtu.be/-A0ICz6rVvU?si=ZL80VT-DojmQHRHJ?v=",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts:{
         singer:[
@@ -341,7 +341,7 @@ export const songs = [
 },
 	{
     name: "35. Hello Good Day by LiSA",
-    videoId : "https://youtu.be/MYRkBwogrqc?si=bXVkFTsS1y-eiz68",
+    videoId : "https://youtu.be/MYRkBwogrqc?si=bXVkFTsS1y-eiz68?v=",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts:{
         singer:[

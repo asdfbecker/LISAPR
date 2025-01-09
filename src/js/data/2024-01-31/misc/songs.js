@@ -1,8 +1,8 @@
 
 export const songs = [
 	{
-    name: "1. in the garden of sinners",
-    videoId : "https://naedist.animemusicquiz.com/848pq9.mp3",
+    name: "1. My Soul,Your Beats! by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com//swjb4r.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -11,8 +11,8 @@ export const songs = [
     }
 },
 	{
-    name: "2. oblivious",
-    videoId : "https://naedist.animemusicquiz.com/6ocmdl.mp3",
+    name: "2. Ichiban no Takaramono by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com//mrxgqk.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -21,148 +21,8 @@ export const songs = [
     }
 },
 	{
-    name: "3. Kimi ga Hikari ni Kaete Iku",
-    videoId : "https://naedist.animemusicquiz.com/k6x2lj.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "4. Kizuato",
-    videoId : "https://naedist.animemusicquiz.com/y1eptl.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "5. ARIA",
-    videoId : "https://naedist.animemusicquiz.com/ga1xqy.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "6. sprinter",
-    videoId : "https://naedist.animemusicquiz.com/tryne0.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "7. fairytale",
-    videoId : "https://naedist.animemusicquiz.com/ykasjl.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "8. seventh heaven",
-    videoId : "https://naedist.animemusicquiz.com/yniswb.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "9. Lacrimosa",
-    videoId : "https://naedist.animemusicquiz.com/7sp0sx.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "10. Hikari no Senritsu",
-    videoId : "https://naedist.animemusicquiz.com/mbif4g.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "11. Kagayaku Sora no Shijima ni wa",
-    videoId : "https://naedist.animemusicquiz.com/dekfld.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "12. I have a dream",
-    videoId : "https://naedist.animemusicquiz.com/a17dto.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "13. Magia",
-    videoId : "https://naedist.animemusicquiz.com/oxxgq4.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "14. to the beginning",
-    videoId : "https://naedist.animemusicquiz.com/gp3kzc.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "15. Manten",
-    videoId : "https://naedist.animemusicquiz.com/cnj527.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "16. Magia [quattro]",
-    videoId : "https://naedist.animemusicquiz.com/1082w5.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "17. Mirai",
-    videoId : "https://naedist.animemusicquiz.com/sdsfgb.mp3",
+    name: "3. Thousand Enemies by Girls Dead Monster (LiSA)",
+    videoId : "https://nawdist.animemusicquiz.com/gfogq8.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -171,58 +31,8 @@ export const songs = [
     }
 },
 	{
-    name: "18. Hikari Furu",
-    videoId : "https://naedist.animemusicquiz.com/yhz3sw.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "19. Kimi no Gin no Niwa",
-    videoId : "https://naedist.animemusicquiz.com/xyyxix.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "20. misterioso",
-    videoId : "https://naedist.animemusicquiz.com/yhot40.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "INS"
-        ]
-    }
-},
-	{
-    name: "21. Allelujah",
-    videoId : "https://naedist.animemusicquiz.com/2ag6e0.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "22. believe",
-    videoId : "https://naedist.animemusicquiz.com/1fxcrv.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "23. heavenly blue",
-    videoId : "https://naedist.animemusicquiz.com/52x76t.mp3",
+    name: "4. oath sign by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com//qgy2zu.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -231,8 +41,48 @@ export const songs = [
     }
 },
 	{
-    name: "24. One Light",
-    videoId : "https://naedist.animemusicquiz.com/11sdp2.mp3",
+    name: "5. crossing field by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/35s57l.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "6. träumerei by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/jil0vz.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "7. Rising Hope by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com//5p0wyp.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "8. Headphone Actor by Jin ft. LiSA",
+    videoId : "https://nawdist.animemusicquiz.com//zde4lq.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "9. Yuukei Yesterday by Jin ft. LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/6l333m.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -241,17 +91,167 @@ export const songs = [
     }
 },
 	{
-    name: "25. ring your bell",
-    videoId : "https://naedist.animemusicquiz.com/d7s9nc.mp3",
+    name: "10. No More Time Machine by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/xl3s4n.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
         "ED"
+        ]
+    }
+},
+	{
+    name: "11. Shirushi by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com//0v17fr.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "12. THIS ILLUSION by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com//3bk1mq.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "13. Rally Go Round by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/x9m10f.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "14. Brave Freak Out by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/umgu9c.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "15. AxxxiS by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/39gx31.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "16. Catch the Moment by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/xgsnd3.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "17. Datte Atashi no Hero. by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/pcvhkl.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "18. ASH by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com//n2qrvu.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "19. ADAMAS by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/pqcd4f.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "20. narrative by SawanoHiroyuki[nZk]:LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/7s114b.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "21. Gurenge by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/ef2ntg.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "22. from the edge by FictionJunction feat. LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/z53lx5.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "23. unlasting by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/cywd9d.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "24. Harebutai by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/qsqmp3.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "25. dawn by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com//uvvcdt.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
         ]
     }
 },{
-    name: "26. ring your bell (in the silence)",
-    videoId : "https://naedist.animemusicquiz.com/quk9ek.mp3",
+    name: "26. Homura by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com//w0f6i5.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -260,8 +260,8 @@ export const songs = [
     }
 },
 	{
-    name: "27. blaze",
-    videoId : "https://naedist.animemusicquiz.com/cr3tel.mp3",
+    name: "27. Yuke by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com//qrq9zd.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -270,68 +270,8 @@ export const songs = [
     }
 },
 	{
-    name: "28. Märchen",
-    videoId : "https://naedist.animemusicquiz.com/krlltb.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "29. reconstructing a full picture",
-    videoId : "https://naedist.animemusicquiz.com/ajubs0.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "INS"
-        ]
-    }
-},
-	{
-    name: "30. old fashioned fairy tale",
-    videoId : "https://naedist.animemusicquiz.com/bhqf26.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "INS"
-        ]
-    }
-},
-	{
-    name: "31. Hyakka Ryouran",
-    videoId : "https://naedist.animemusicquiz.com/51izi2.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "32. dolce",
-    videoId : "https://naedist.animemusicquiz.com/sopmfj.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "33. snow is falling",
-    videoId : "https://naedist.animemusicquiz.com/fiisdu.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "ED"
-        ]
-    }
-},
-	{
-    name: "34. Finale",
-    videoId : "https://naedist.animemusicquiz.com/cme8s6.mp3",
+    name: "28. Akeboshi by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/t9p8wo.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -340,12 +280,72 @@ export const songs = [
     }
 },
 	{
-    name: "35. interlude#1",
-    videoId : "https://naedist.animemusicquiz.com/t84m43.mp3",
+    name: "29. Shirogane by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com//6r79u2.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
         "ED"
+        ]
+    }
+},
+	{
+    name: "30. Shouted Serenade by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/t1q2yp.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "31. Black Box by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/mrie4l.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "32. ReawakeR by LiSA feat. Felix of Stray Kids",
+    videoId : "https://nawdist.animemusicquiz.com/zbxil2.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "33. QUEEN by LiSA",
+    videoId : "https://nawdist.animemusicquiz.com/973phv.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "34. REALiZE by LiSA",
+    videoId : "https://youtu.be/-A0ICz6rVvU?si=ZL80VT-DojmQHRHJ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts:{
+        singer:[
+        "ED"
+        ]
+    }
+},
+	{
+    name: "35. Hello Good Day by LiSA",
+    videoId : "https://youtu.be/MYRkBwogrqc?si=bXVkFTsS1y-eiz68",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts:{
+        singer:[
+        "INS"
         ]
     }
 }
